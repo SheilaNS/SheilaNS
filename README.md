@@ -2,7 +2,7 @@
 But you can call me Sheila :hugs:
 
 I used to work as a pharmacist, but as I love to solve problems I decided to change carrers.
-Nowadays I'm only studying web development at [Trybe](https://www.betrybe.com/).
+Nowadays I'm focused on studying web development at [Trybe](https://www.betrybe.com/).
 
 
 <!--
