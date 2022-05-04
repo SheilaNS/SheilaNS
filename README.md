@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, my name is Sheila Nakashima dos Santos!
+But you can call me Sheila :hugs:
+
+I used to work as a pharmacist, but as I love to solve problems I decided to change carrers.
+Nowadays I'm only studying web development at [Trybe](https://www.betrybe.com/).
+
 
 <!--
 **SheilaNS/SheilaNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
