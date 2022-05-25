@@ -4,6 +4,8 @@ But you can call me Sheila :hugs:
 I used to work as a pharmacist, but as I love to solve problems I decided to change carrers.
 Nowadays I'm focused on studying web development at [Trybe](https://www.betrybe.com/).
 
+You can see my [LinkedIn](https://www.linkedin.com/in/sheila-nakashima-dos-santos/) or send me an e-mail: shei.nsantos@gmail.com.
+
 
 <!--
 **SheilaNS/SheilaNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
