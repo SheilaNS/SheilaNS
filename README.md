@@ -5,7 +5,7 @@ But you can call me Sheila :hugs:
 
 I used to work as a pharmacist, but as I love to solve problems I decided to change carrers.
 Nowadays I'm focused on studying web development at [Trybe](https://www.betrybe.com/).
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <div align="center">
 <a href="https://github.com/SheilaNS">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheilans&layout=compact&langs_count=7&theme=dracula"/>
