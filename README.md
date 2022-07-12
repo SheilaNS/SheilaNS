@@ -5,7 +5,23 @@ But you can call me Sheila :hugs:
 
 I used to work as a pharmacist, but as I love to solve problems I decided to change carrers.
 Nowadays I'm focused on studying web development at [Trybe](https://www.betrybe.com/).
-<br><br><br><br><br><br><br>
+
+#### HardSkils
+
+<div align="center>
+  <img alt="GitHub icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="HTML5 icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3 icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="React.Js icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Redux icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img alt="Jest icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img alt="Node.js icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Mocha icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img alt="MySQL icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
+<br><br><br><br><br><br>
 <div align="center">
 <a href="https://github.com/SheilaNS">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheilans&layout=compact&langs_count=7&theme=dracula"/>
