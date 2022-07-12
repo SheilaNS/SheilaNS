@@ -6,9 +6,9 @@ But you can call me Sheila :hugs:
 I used to work as a pharmacist, but as I love to solve problems I decided to change carrers.
 Nowadays I'm focused on studying web development at [Trybe](https://www.betrybe.com/).
 
-#### HardSkils
+#### HardSkills
 
-<div align="center>
+<div align="center">
   <img alt="GitHub icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="HTML5 icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3 icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
