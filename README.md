@@ -22,6 +22,7 @@ Nowadays I'm focused on studying web development at [Trybe](https://www.betrybe.
   <a href="https://nodejs.org/en/"><img alt="Node.js icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
   <a href="https://mochajs.org/"><img alt="Mocha icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /></a>
   <a href="https://www.mysql.com/"><img alt="MySQL icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript icon" height="50px" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
 </div>
 
 <br><br>
