@@ -15,14 +15,15 @@ Nowadays I'm focused on studying web development at [Trybe](https://www.betrybe.
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS3 icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a href="https://reactjs.org/"><img alt="React.Js icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://redux.js.org/"><img alt="Redux icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
 </div>
 <div align="left">
-  <a href="https://redux.js.org/"><img alt="Redux icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
   <a href="https://jestjs.io/pt-BR/"><img alt="Jest icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
   <a href="https://nodejs.org/en/"><img alt="Node.js icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
   <a href="https://mochajs.org/"><img alt="Mocha icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /></a>
   <a href="https://www.mysql.com/"><img alt="MySQL icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript icon" height="50px" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
+  <a href="https://www.mongodb.com/docs/"><img alt="MongoDB icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="50px" width="60px" /></a>
 </div>
 
 <br><br>
