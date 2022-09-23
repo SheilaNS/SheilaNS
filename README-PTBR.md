@@ -1,4 +1,4 @@
-[:us:](https://github.com/SheilaNS/SheilaNS/blob/main/README.md)
+[:us: EN](https://github.com/SheilaNS)
 <img align="right" src="images/octo-me.png" alt="Me octocat" width="250px">
 
 ### Olá, meu nome é Sheila Nakashima dos Santos!
