@@ -11,20 +11,20 @@ Nowadays I'm focused on studying software development at [Trybe](https://www.bet
 
 </div>
 <div align="left">
-  <a href="https://github.com"><img alt="GitHub icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5 icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS3 icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-  <a href="https://reactjs.org/"><img alt="React.Js icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-  <a href="https://redux.js.org/"><img alt="Redux icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
+  <a href="https://git-scm.com/" title="Git"><img alt="Git icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img alt="HTML5 icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3"><img alt="CSS3 icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript"><img alt="JavaScript icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://reactjs.org/" title="React.js"><img alt="React.Js icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://redux.js.org/" title="Redux"><img alt="Redux icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
 </div>
 <div align="left">
-  <a href="https://jestjs.io/pt-BR/"><img alt="Jest icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
-  <a href="https://nodejs.org/en/"><img alt="Node.js icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
-  <a href="https://mochajs.org/"><img alt="Mocha icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /></a>
-  <a href="https://www.mysql.com/"><img alt="MySQL icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript icon" height="50px" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-  <a href="https://www.mongodb.com/docs/"><img alt="MongoDB icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="50px" width="60px" /></a>
+  <a href="https://jestjs.io/pt-BR/" title="Jest"><img alt="Jest icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
+  <a href="https://nodejs.org/en/" title="Node.js"><img alt="Node.js icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://mochajs.org/" title="Mocha"><img alt="Mocha icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img alt="MySQL icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img alt="TypeScript icon" height="50px" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
+  <a href="https://www.mongodb.com/docs/" title="MongoDB"><img alt="MongoDB icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="50px" width="60px" /></a>
 </div>
 
 <br><br>
