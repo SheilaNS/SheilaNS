@@ -1,31 +1,64 @@
 [:brazil: PT-BR](https://github.com/SheilaNS/SheilaNS/blob/main/README-PTBR.md)
 <img align="right" src="images/octo-me.png" alt="Me octocat" width="250px">
 
-### Hi there, my name is Sheila Nakashima dos Santos!
+## Hi there, my name is Sheila Nakashima dos Santos!
 But you can call me Sheila :hugs:
 
-I used to work as a pharmacist, but as I love to solve problems I decided to change carrers.
-Nowadays I'm focused on studying software development at [Trybe](https://www.betrybe.com/).
+I used to work as a pharmacist, but as I love to solve problems I decided to change carrers.<br>
+I'm Full Stack developer and currently studying Computer Science.<br>
+Nowadays I'm searching for an opportunity to start my developer carrer.
 
-#### HardSkills
+## HardSkills
 
-</div>
+### Main Languages
+
 <div align="left">
-  <a href="https://git-scm.com/" title="Git"><img alt="Git icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img alt="HTML5 icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3"><img alt="CSS3 icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript"><img alt="JavaScript icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-  <a href="https://reactjs.org/" title="React.js"><img alt="React.Js icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-  <a href="https://redux.js.org/" title="Redux"><img alt="Redux icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript"><img alt="JavaScript icon" height="50px" width="60px" src="images/logos/javascript.svg" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img alt="TypeScript icon" height="50px" width="60px"  src="images/logos/typescript.svg" /></a>
+  <a href="https://docs.python.org/3/" title="Python"><img alt="Python icon" height="50px" width="60px"  src="images/logos/python.svg" /></a>
 </div>
+
+### Front-end
+
 <div align="left">
-  <a href="https://jestjs.io/pt-BR/" title="Jest"><img alt="Jest icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
-  <a href="https://nodejs.org/en/" title="Node.js"><img alt="Node.js icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
-  <a href="https://mochajs.org/" title="Mocha"><img alt="Mocha icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /></a>
-  <a href="https://www.mysql.com/" title="MySQL"><img alt="MySQL icon" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img alt="TypeScript icon" height="50px" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-  <a href="https://www.mongodb.com/docs/" title="MongoDB"><img alt="MongoDB icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="50px" width="60px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img alt="HTML5 icon" height="50px" width="60px" src="images/logos/html.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3"><img alt="CSS3 icon" height="50px" width="60px" src="images/logos/css.svg" /></a>
+  <a href="https://reactjs.org/" title="React.js"><img alt="React.Js icon" height="50px" width="60px" src="images/logos/react.svg" /></a>
+  <a href="https://redux.js.org/" title="Redux"><img alt="Redux icon" height="50px" width="60px" src="images/logos/redux.svg" /></a>
+  <a href="https://tailwindcss.com/" title="TailwindCSS"><img alt="TailwindCss icon" height="50px" width="60px" src="images/logos/tailwind.svg" /></a>
 </div>
+
+### Back-end
+
+<div align="left">
+  <a href="https://docs.docker.com/" title="Docker"><img alt="Docker icon" height="50px" width="60px" src="images/logos/docker.svg" /></a>
+  <a href="https://nodejs.org/en/" title="Node.js"><img alt="Node.js icon" height="50px" width="60px" src="images/logos/nodejs.svg" /></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img alt="MySQL icon" height="50px" width="60px" src="images/logos/mysql.svg" /></a>
+  <a href="https://www.mongodb.com/docs/" title="MongoDB"><img alt="MongoDB icon" src="images/logos/mongodb.svg" height="50px" width="60px" /></a>
+</div>
+
+### Tests
+
+<div align="left">
+  <a href="https://jestjs.io/pt-BR/" title="Jest"><img alt="Jest icon" height="50px" width="60px" src="images/logos/jest.svg" /></a>
+  <a href="https://testing-library.com/docs/react-testing-library/intro/" title="React Testing Library"><img alt="RTL icon" height="50px" width="60px" src="images/logos/rtl.svg" /></a>
+  <a href="https://mochajs.org/" title="Mocha"><img alt="Mocha icon" height="50px" width="60px" src="images/logos/mocha.svg" /></a>
+  <a href="https://www.chaijs.com/api/bdd/" title="Chai"><img alt="Chai icon" height="50px" width="60px" src="images/logos/chai.svg" /></a>
+  <a href="https://sinonjs.org/releases/latest/" title="Sinon"><img alt="Sinon icon" height="50px" width="60px" src="images/logos/sinon.svg" /></a>
+</div>
+
+### Tools and Techs
+
+<div align="left">
+  <a href="https://git-scm.com/" title="Git"><img alt="Git icon" height="50px" width="60px" src="images/logos/git.svg" /></a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img alt="VSCode icon" height="50px" width="60px" src="images/logos/vscode.svg" /></a>
+  <a href="https://www.figma.com/" title="Figma"><img alt="Figma icon" height="50px" width="60px" src="images/logos/figma.svg" /></a>
+  <a href="https://www.canva.com/" title="Canva"><img alt="Canva icon" height="50px" width="60px" src="images/logos/canva.svg" /></a>
+  <a href="https://www.zoom.com.br/" title="Zoom"><img alt="Zoom icon" height="50px" width="60px" src="images/logos/zoom.svg" /></a>
+  <a href="https://slack.com/" title="Slack"><img alt="Slack icon" height="50px" width="60px" src="images/logos/slack.svg" /></a>
+  <a href="https://discord.com/" title="Discord"><img alt="Discord icon" height="50px" width="60px" src="images/logos/discord.svg" /></a>
+</div>
+
 
 <br><br>
 <div align="center">
