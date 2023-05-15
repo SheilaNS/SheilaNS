@@ -6,7 +6,7 @@ But you can call me Sheila :hugs:
 
 I used to work as a pharmacist, but as I love to solve problems I decided to change carrers.<br>
 I'm Full Stack developer and currently studying Computer Science.<br>
-Nowadays I'm searching for an opportunity to start my developer carrer.
+Nowadays I'm working as Early Associate at IBM.
 
 ## HardSkills
 
