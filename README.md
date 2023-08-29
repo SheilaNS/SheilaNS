@@ -16,6 +16,7 @@ Nowadays I'm working as Early Associate at IBM.
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript"><img alt="JavaScript icon" height="50px" width="60px" src="images/logos/javascript.svg" /></a>
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img alt="TypeScript icon" height="50px" width="60px"  src="images/logos/typescript.svg" /></a>
   <a href="https://docs.python.org/3/" title="Python"><img alt="Python icon" height="50px" width="60px"  src="images/logos/python.svg" /></a>
+  <a href="https://docs.oracle.com/en/java/" title="Java"><img alt="Java icon" height="50px" src="images/logos/java.svg" /></a>
 </div>
 
 ### Front-end
